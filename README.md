@@ -33,5 +33,27 @@ The dashboard is organized into three main sections:
 - **Power Query M** – Data transformation and integration
 - **CSV Files** – Source data from WHO and OWID
 
-## 📁 File Structure
+## 🔍 How to Use
+
+1. Open `swatii-dashboard.pbix` in Power BI Desktop.
+2. Refresh the data connections if needed.
+3. Interact with slicers to filter by country, year, and air quality category.
+4. Use map visuals, bar charts, and bubble plots to explore trends and insights.
+
+## 📌 Use Cases
+
+- Environmental Policy Planning
+- Public Health Research
+- Urban Development & Smart Cities
+- Educational Analysis on Pollution & Health
+
+## ✨ Author
+
+**Swati Soni**  
+Masters in ITM, Illinois Institute of Technology  
+[LinkedIn](https://www.linkedin.com/in/swatisoni98) | [GitHub](https://github.com/swatisoni8899)  
+
+---
+
+> *This project is intended for educational and analytical purposes only. Data sources include WHO and Our World in Data.*
 
